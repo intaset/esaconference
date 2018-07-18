@@ -41,7 +41,7 @@ $message = build_message($_REQUEST);
 
 $message = 'Dear Colleague,
 
-Thank you for registering for ICCEFA 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
+Thank you for registering forICESA 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
 If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@iccefa.com. You can find the copyright form here: www.2019.icaera.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
@@ -112,7 +112,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
-<meta name="keywords" content="heat transfer conference, cfd conference, fluid flow conference,  energy conference, combustion conference, heat pipe conference, renewable energy conference, rheology conference, turbulent flow conference, drying, feul cells, heat exchangers, nanofluids, multiphase flow, multiphase heat transfer, non-newtonian flow, porous media, thermodynamics, fluid mechanics, fluid dynamics, heat transfer, cfd, fluid flow, energy, combustion, heat pipe, renewable energy, rheology, turbulent flow, drying conference, feul cells conference, heat exchangers conference, nanofluids conference, multiphase flow conference, multiphase heat transfer conference, non-newtonian flow conference, porous media conference, thermodynamics conference, fluid mechanics conference, fluid dynamics conference">
+<meta name="keywords" content="environment conference, biofuels conference, desalination conference, wastewater conference, pollution conference, remediation conference, environmental engineering conference, environmental pollution conference, environmental remediation conference, environmental treatment conference, air pollution conference, water pollution conference, wasterwater pollution conference, soil pollution conference, environmental protection, environmental sustainability, environmental development, greenhouse, global warming, climate change, groudwater, oil spills, renewable energy, water treatment, soil treatment, wastewater treatment, environment, biofuels, desalination, wastewater, pollution, remediation, environmental engineering, environmental pollution, environmental remediation, environmental treatment, air pollution, water pollution, wasterwater pollution, soil pollution, environmental protection conference, environmental sustainability conference, environmental development conference, greenhouse conference, global warming conference, climate change conference, groudwater conference, oil spills conference, renewable energy conference, water treatment conference, soil treatment conference, wastewater treatment conference">
 <title>ICESA'19 - Registration Form Filled!</title>
 
 <meta name="handheldfriendly" content="true">
