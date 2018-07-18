@@ -41,7 +41,7 @@ $message = build_message($_REQUEST);
 
 $message = 'Dear Colleague,
 
-Thank you for registering forICESA 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
+Thank you for registering for ICESA 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
 If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@esaconference.com. You can find the copyright form here: www.2019.icaera.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
