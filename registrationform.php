@@ -1,5 +1,5 @@
 <?php
-$my_email = "registration@icaera.com";
+$my_email = "registration@esaconference.com";
 $errors = array();
 
 // Remove $_COOKIE elements from $_REQUEST.
@@ -43,9 +43,9 @@ $message = 'Dear Colleague,
 
 Thank you for registering for ICESA 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
-If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@esaconference.com. You can find the copyright form here: www.2019.icaera.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
+If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@esaconference.com. You can find the copyright form here: www.2019.esaconference.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
-You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@icaera.com mentioning the correct information. Please note that you SHOULD NOT refill the form.
+You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@esaconference.com mentioning the correct information. Please note that you SHOULD NOT refill the form.
 
 ---
 
@@ -250,7 +250,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
   <p class="body">If you have requested any official invitation letters, please allow up to 5 business days to receive your documents.</p> 
 
-    <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@icaera.com" class="body-link">registration@icaera.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
+    <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@esaconference.com" class="body-link">registration@esaconference.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
 
   <p class="body">We are looking forward to seeing you at ICESA'19!</p>
   </div>
