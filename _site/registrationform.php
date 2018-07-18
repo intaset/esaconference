@@ -43,7 +43,7 @@ $message = 'Dear Colleague,
 
 Thank you for registering forICESA 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
-If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@iccefa.com. You can find the copyright form here: www.2019.icaera.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
+If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@esaconference.com. You can find the copyright form here: www.2019.icaera.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
 You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@icaera.com mentioning the correct information. Please note that you SHOULD NOT refill the form.
 
@@ -273,7 +273,7 @@ mail($your_email,$your_subject,$message,$your_headers);
     Orl&eacute;ans, Ontario, Canada<br>
     Postal Code: K1C 1G1<br>
     +1-613-834-9999<br>
-    <a href="mailto:info@iccefa.com">info@iccefa.com</a></p>
+    <a href="mailto:info@esaconference.com">info@esaconference.com</a></p>
     </div>
   </div>
 
