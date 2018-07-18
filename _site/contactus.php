@@ -1,6 +1,6 @@
 <?php
 
-$my_email = "info@esaconference.com";
+$my_email = "info@iccefa.com";
 
 $name=$_POST['Name'];
 $email=$_POST['Email'];
@@ -32,7 +32,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="Geotechnical Research Conference, Structural Engineering Conference, Traffic Engineering Conference, Air, Soli, Water, and wastewater pollution and treatment, Global Warming">
-<title>ICESA'19 - Contact Us</title>
+<title>ICCEFA'19 - Contact Us</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -62,7 +62,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 
 <body>
 <nav id="slide-menu">
-  <h1>ICESA'19</h1>
+  <h1>ICCEFA'19</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Submissions</a></li>
@@ -103,7 +103,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
   </div>
 </div>
         <div class="bg">
-          <h1>International Conference on<br> Environmental Science and Applications (ICESA'19)</h1>
+          <h1>International Conference on<br> Civil Engineering Fundamentals and Applications (ICCEFA'19)</h1>
           <p class="subhead">November, 2019 | Orlando, Florida</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
@@ -131,7 +131,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
         </div>
 
         <div class="bg">
-          <h1>International Conference on<br> Environmental Science and Applications (ICESA'19)</h1>
+          <h1>International Conference on<br> Civil Engineering Fundamentals and Applications (ICCEFA'19)</h1>
           <p class="subhead">November, 2019 | Orlando, Florida</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
@@ -164,7 +164,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 <div class="unit unit-s-1 unit-m-1-4-1 unit-l-1-4-1">
   <div class="unit-spacer content">
     <p class="body">We have received your message and we will try our best to get back to you within the next 48 hours.<br><br>
-    Thank you for your interest in ICESA'19.</p>
+    Thank you for your interest in ICCEFA'19.</p>
   </div>
 </div>
 
@@ -185,13 +185,13 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
     Orl&eacute;ans, Ontario, Canada<br>
     Postal Code: K1C 1G1<br>
     +1-613-834-9999<br>
-    <a href="mailto:info@esaconference.com">info@esaconference.com</a></p>
+    <a href="mailto:info@iccefa.com">info@iccefa.com</a></p>
     </div>
   </div>
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding ICESA'19, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding ICCEFA'19, please fill out the form below:</p>
 
     <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm" class="cf">
   <div class="half left cf">
@@ -206,9 +206,10 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
   <div class="cf">
   <center><div class="full right cf"><input type="submit" name="Submit" value="Submit">
     <input type="reset" name="Reset" value="Reset"></center></div>
-</div></form></div>
+</div></div></form>
 
     </div>
+  </div>
   </div>
 </footer> 
 
