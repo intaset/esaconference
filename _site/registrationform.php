@@ -65,9 +65,9 @@ $headers = "From: " . $_REQUEST['email'];
 
 $your_email = $_REQUEST['email'];
 
-$your_subject = "Your Registration Details for ICCEFA'19";
+$your_subject = "Your Registration Details for ICESA'19";
 
-$your_headers = "From: ICCEFA'19 <" . $my_email . ">";
+$your_headers = "From: ICESA'19 <" . $my_email . ">";
 
 if ((($_FILES["file"]["type"] == "image/gif")
 
@@ -113,7 +113,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="heat transfer conference, cfd conference, fluid flow conference,  energy conference, combustion conference, heat pipe conference, renewable energy conference, rheology conference, turbulent flow conference, drying, feul cells, heat exchangers, nanofluids, multiphase flow, multiphase heat transfer, non-newtonian flow, porous media, thermodynamics, fluid mechanics, fluid dynamics, heat transfer, cfd, fluid flow, energy, combustion, heat pipe, renewable energy, rheology, turbulent flow, drying conference, feul cells conference, heat exchangers conference, nanofluids conference, multiphase flow conference, multiphase heat transfer conference, non-newtonian flow conference, porous media conference, thermodynamics conference, fluid mechanics conference, fluid dynamics conference">
-<title>ICCEFA'19 - Registration Form Filled!</title>
+<title>ICESA'19 - Registration Form Filled!</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -143,7 +143,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
 <body>
 <nav id="slide-menu">
-  <h1>ICCEFA'19</h1>
+  <h1>ICESA'19</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Submissions</a></li>
@@ -184,7 +184,7 @@ mail($your_email,$your_subject,$message,$your_headers);
   </div>
 </div>
         <div class="bg">
-          <h1>International Conference on<br> Civil Engineering Fundamentals and Applications (ICCEFA'19)</h1>
+          <h1>International Conference on<br> Civil Engineering Fundamentals and Applications (ICESA'19)</h1>
           <p class="subhead">November, 2019 | Orlando, Florida</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
@@ -212,7 +212,7 @@ mail($your_email,$your_subject,$message,$your_headers);
         </div>
 
         <div class="bg">
-          <h1>International Conference on<br> Civil Engineering Fundamentals and Applications (ICCEFA'19)</h1>
+          <h1>International Conference on<br> Civil Engineering Fundamentals and Applications (ICESA'19)</h1>
           <p class="subhead">November, 2019 | Orlando, Florida</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
@@ -252,7 +252,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
     <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@icaera.com" class="body-link">registration@icaera.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
 
-  <p class="body">We are looking forward to seeing you at ICCEFA'19!</p>
+  <p class="body">We are looking forward to seeing you at ICESA'19!</p>
   </div>
 </div>
 
@@ -279,7 +279,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding ICCEFA'19, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding ICESA'19, please fill out the form below:</p>
 
    <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm" class="cf">
   <div class="half left cf">
