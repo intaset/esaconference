@@ -1,114 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
+<!-- www.check-domains.com sitemap generator -->
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-   <url>
-
-      <loc>http://www.esaconference.com/index.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-  <url>
-
-      <loc>http://www.esaconference.com/papers.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.esaconference.com/program.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.esaconference.com/dates.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.esaconference.com/registration.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.esaconference.com/committee.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.esaconference.com/keynote.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.esaconference.com/sponsor.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.esaconference.com/venue.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.esaconference.com/accommodation.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.esaconference.com/symposium.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
+<url>
+   <loc>https://esaconference.com/</loc>
+   <lastmod>2018-10-16T16:42:36+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>https://esaconference.com/ICCEFA19_ICESA19_CFP.pdf</loc>
+   <lastmod>2018-10-18T19:07:03+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://esaconference.com/papers/</loc>
+   <lastmod>2018-10-16T16:42:35+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://esaconference.com/program/</loc>
+   <lastmod>2018-10-16T16:42:35+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://esaconference.com/dates/</loc>
+   <lastmod>2018-10-16T16:42:36+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://esaconference.com/registration/</loc>
+   <lastmod>2018-10-16T16:42:35+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://esaconference.com/committee/</loc>
+   <lastmod>2018-10-16T16:42:36+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://esaconference.com/keynote/</loc>
+   <lastmod>2018-10-16T16:42:36+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://esaconference.com/venue/</loc>
+   <lastmod>2018-10-16T16:42:34+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://esaconference.com/accommodation/</loc>
+   <lastmod>2018-10-16T16:42:36+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://esaconference.com/past-events/</loc>
+   <lastmod>2018-10-16T16:42:35+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://esaconference.com/sponsor/</loc>
+   <lastmod>2018-10-16T16:42:34+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://esaconference.com/symposium/</loc>
+   <lastmod>2018-10-16T16:42:34+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
 </urlset>
